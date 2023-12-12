@@ -1,6 +1,8 @@
 {
   "scripts": {
-    "start":"vite"
+    "start":"vite",
+    "dev": "webpack serve",
+    "build": "webpack"
   },
   "devDependencies": {
     "autoprefixer": "^10.4.16",
